@@ -5,6 +5,7 @@ const contentToCache = [
     "Build/BlockBlast1.1-8.data.unityweb",
     "Build/BlockBlast1.1-8.wasm.unityweb",
     "TemplateData/style.css"
+    "KeyRedirect.js"
 
 ];
 
